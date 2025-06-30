@@ -3,7 +3,7 @@
 A robust, production-ready template for building FastMCP servers with Docker support, automated deployment, and comprehensive tooling.
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
+[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?logo=docker&logoColor=white)](https://www.docker.com/)
 [![FastMCP](https://img.shields.io/badge/FastMCP-2.0+-green.svg)](https://github.com/jlowin/fastmcp)
 
@@ -78,7 +78,7 @@ MCP-Server-Template/
 
 ```bash
 # Clone the template
-git clone <your-repo-url> my-mcp-server
+git clone [<your-repo-url> my-mcp-server](https://github.com/sandeep-13-dev/MCP-Server-Template.git)
 cd my-mcp-server
 
 # Install dependencies
